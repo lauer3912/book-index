@@ -1,0 +1,12 @@
+[book]
+authors = ["ian"]
+language = "en"
+multilingual = false
+src = "src"
+title = "All Books Index"
+
+[output.html.playground]
+editable = true
+
+[output.html]
+mathjax-support = true
