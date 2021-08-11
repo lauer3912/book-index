@@ -1,9 +1,9 @@
 [book]
 authors = ["ian"]
-language = "en"
+language = "zh-CN"
 multilingual = false
 src = "src"
-title = "All Books Index"
+title = "书籍目录"
 
 [output.html.playground]
 editable = true

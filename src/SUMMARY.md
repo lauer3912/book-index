@@ -7,3 +7,4 @@
   - [JavaScript](./programming/js/index.md)
   - [TypeScript](./programming/ts/index.md)
   - [Swift](./programming/swift/index.md)
+  - [Rust](./programming/rust/index.md)
