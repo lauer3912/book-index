@@ -8,6 +8,7 @@
 
 * [JavaScript](./js/index.md)
 * [TypeScript](./ts/index.md)
+* [Deno](./deno/index.md)
 * [Rust](./rust/index.md)
 * [swift](./swift/index.md)
 * [Go](./go/index.md)
