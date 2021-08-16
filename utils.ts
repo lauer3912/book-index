@@ -101,14 +101,14 @@ export async function gitSync(root: string = Deno.cwd()): Promise<boolean> {
   if (code === 0 && stdout.length > 0) {
     console.log(`${root} is dirty, commit and push ...`);
     console.log(stdout);
-    
+
     for await (const oneCMD of [
       ["git", "pull"],
       ["git", "add", "."],
       ["git", "commit", "-m", "auto commit"],
       ["git", "push"]
     ]) {
-      logger.info(`exec ${oneCMD.join(" ")}`);
+      logger.info(`exec '${oneCMD.join(" ")}' in ${root}`);
       const [{ code }, stdout, stderr] = await run({
         cmd: oneCMD,
         cwd: root,
