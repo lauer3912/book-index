@@ -21,7 +21,7 @@ async function main() {
 
   // TODO: 判断每个git仓库的状态，根据状态自动添加及提交文件, 然后同步远程git
   for await (const repo of gitRepos) {
-    await gitSync(repo)
+    await gitSync(repo);
   }
 }
 

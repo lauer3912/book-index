@@ -1,5 +1,9 @@
 # TODO
 
+## 2021/08/16
+
+- `Nuxt.js` 升级到2.15.8, 只是一些Bug的修复
+
 ## 2021/08/12
 
 - `postcss`的继续学习 [https://postcss.org/](https://postcss.org/)
