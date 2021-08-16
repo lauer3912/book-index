@@ -101,6 +101,7 @@ export async function gitSync(root: string = Deno.cwd()): Promise<boolean> {
   const [{ code }, stdout] = await gitStatus(root);
   if (code === 0 && stdout.length > 0) {
     for await (const oneCMD of [
+      ["git", "pull"],
       ["git", "add", "."],
       ["git", "commit", "-m", "auto commit"],
       ["git", "push"]
