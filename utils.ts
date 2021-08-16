@@ -96,10 +96,12 @@ export async function gitStatus(root: string = Deno.cwd()): Promise<any> {
 export async function gitSync(root: string = Deno.cwd()): Promise<boolean> {
   // git stats
   logger.info(`gitSync ${root}`);
-  console.log(`${root} is dirty, commit and push ...`);
 
   const [{ code }, stdout] = await gitStatus(root);
   if (code === 0 && stdout.length > 0) {
+    console.log(`${root} is dirty, commit and push ...`);
+    console.log(stdout);
+    
     for await (const oneCMD of [
       ["git", "pull"],
       ["git", "add", "."],
