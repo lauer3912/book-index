@@ -1,5 +1,41 @@
 # TODO
 
+[书籍索引](https://lauer3912.github.io/book-index/)
+
+## 2021/08/25
+
+- 辅助工具类
+  - 国际化工具
+    - [腾讯Web 国际化助手 i18n-helper-cli](https://github.com/wuqiang1985/i18n-helper)
+      - 用途：i18n-helper-cli 是一个 Web 国际化整体解决方案，包含自动包裹词条，提取词条， 翻译词条，词条翻译统计，节省人力预估统计，网页多语言显示异常检测（Coming soon）等功能。可以大大减低开发，测试，翻译各个角色的人力成本，减少重复劳动，低级错误。
+      - [AST浏览器](https://astexplorer.net/)
+- 自动化测试
+  - 报表集成
+    - [ ] [深入学习开源Allure Framework](https://github.com/allure-framework)
+      - [ ] 其他工具输出的测试报表数据如何传输到Allure?
+      - [ ] SDK 资源
+        - [ ] 重点关注[`allure-js`](https://github.com/allure-framework/allure-js) 与 [`allure-java`](https://github.com/allure-framework/allure-java)
+
+- IPC 中间件
+  - [x] 「中间件」的主要任务，是负责各类应用软件模块之间的通信以及对系统资源的调度。
+  - 专业术语：
+    - `RTE(Runtime Environment)`：运行环境，指的是系统运行时的环境，包括系统环境变量，系统环境配置，系统环境类型，系统环境描述等。
+    - `SWC(Software Component)`：软件组件，指的是系统中的一个或多个组件，比如应用程序，服务，框架等。
+    - `IPC(Inter-process communiction)`: 进程间通信的机制，指的是进程间的通信方式，包括管道，文件，网络等。如果你使用过Linux或QNX等操作系统，就一定会接触一种使用进程间通信的机制（IPC：inter-process communiction），来完成拥有不同虚拟地址空间（virtual address space）的系统应用（Application）之间的数据传输。
+    - `POSIX(Portable Operating System Interface)`：一种设计的接口，用于描述系统调用，用于描述系统资源的访问方式，以及系统资源的分配和释放。
+    - `POSIX API`: 可移植操作系统接口
+  - [Eclipse iceoryx 冰羚](https://www.eclipse.org/community/eclipse_newsletter/2019/december/4.php): ceoryx「冰羚」就是由罗伯特·博世公司 (Robert Bosch GmbH) 自动驾驶部门的架构大牛Michael Pöhnl先生发明的.一种基于「零拷贝」（zero-copy）和「共享内存」（shared memory）技术来优化「进程间通信」（IPC）的「中间件」（Middleware）
+    - [x] [中文入门介绍文章](https://zhuanlan.zhihu.com/p/179641900)
+
+## 2021/08/24
+
+- 自动化测试
+  - 报表集成
+    - [开源Allure Framework](https://github.com/allure-framework)
+  - 运行测试
+    - [x] Playwright 通过 `playwright.config.js` 配置文件进行测试
+    - [x] 通过docker, `mcr.microsoft.com/playwright:focal`, 能够正常运行测试
+
 ## 2021/08/23
 
 - [x] 多端可视化埋点解决方案深入
@@ -32,10 +68,10 @@
 
 - [ ] `Playwright` 选择器的学习：
 - 文档梳理:
-  - [ ] [常用的TypeScript的类型声明最佳实践](https://my.oschina.net/u/3842749/blog/5168719)
+  - [x] [常用的TypeScript的类型声明最佳实践](https://my.oschina.net/u/3842749/blog/5168719)
 - 资料收集：
-  - [ ] [视频压缩标准简史：从1929到2020](https://my.oschina.net/u/3521704/blog/5139834)
-  - [ ] [远程智能音视频服务场景的学习](https://www.oschina.net/news/154643)
+  - [x] [视频压缩标准简史：从1929到2020](https://my.oschina.net/u/3521704/blog/5139834)
+  - [x] [远程智能音视频服务场景的学习](https://www.oschina.net/news/154643)
 
 ## 2021/08/18
 
