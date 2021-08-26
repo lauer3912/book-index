@@ -14,8 +14,12 @@
       - [x] SDK 资源
         - [ ] 重点关注[`allure-js`](https://github.com/allure-framework/allure-js) 与 [`allure-java`](https://github.com/allure-framework/allure-java)
         - [x] 集成[allure-playwright](https://www.npmjs.com/package/allure-playwright), 并在测试工程中验证
-      - [ ] CI/CD
-        - [ ] [与Jenkins的整合](https://docs.qameta.io/allure/#_jenkins)
+      - [x] CI/CD 技术资料
+        - [x] [前端E2E测试与Jenkins的整合](https://docs.qameta.io/allure/#_jenkins)
+        - [x] [Junit搭配Allure，集成到jenkins，生成可视化测试报告](https://blog.csdn.net/qq_39474136/article/details/108719892)
+
+- IPC 遗留问题
+  - [ ] 现在是 1 个生产数据发布者对多个数据消费者，如何建立多通道解决多个发布者问题？
 
 ## 2021/08/25
 
