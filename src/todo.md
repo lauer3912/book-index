@@ -2,6 +2,21 @@
 
 [书籍索引](https://lauer3912.github.io/book-index/)
 
+## 2021/08/26
+
+- 第三方功能库
+  - 音视频播放器
+    - [西瓜音视频播放器](https://v2.h5player.bytedance.com/)
+- 自动化测试
+  - 报表集成
+    - [x] [深入学习开源Allure Framework](https://github.com/allure-framework)
+      - [x] 其他工具输出的测试报表数据如何传输到Allure?
+      - [x] SDK 资源
+        - [ ] 重点关注[`allure-js`](https://github.com/allure-framework/allure-js) 与 [`allure-java`](https://github.com/allure-framework/allure-java)
+        - [x] 集成[allure-playwright](https://www.npmjs.com/package/allure-playwright), 并在测试工程中验证
+      - [ ] CI/CD
+        - [ ] [与Jenkins的整合](https://docs.qameta.io/allure/#_jenkins)
+
 ## 2021/08/25
 
 - 辅助工具类
@@ -26,6 +41,7 @@
     - `POSIX API`: 可移植操作系统接口
   - [Eclipse iceoryx 冰羚](https://www.eclipse.org/community/eclipse_newsletter/2019/december/4.php): ceoryx「冰羚」就是由罗伯特·博世公司 (Robert Bosch GmbH) 自动驾驶部门的架构大牛Michael Pöhnl先生发明的.一种基于「零拷贝」（zero-copy）和「共享内存」（shared memory）技术来优化「进程间通信」（IPC）的「中间件」（Middleware）
     - [x] [中文入门介绍文章](https://zhuanlan.zhihu.com/p/179641900)
+    - [x] 源码学习：`/home/sunzhifeng/github-prj/ref.git/rust_pkgs.git/iceoryx-rs`
 
 ## 2021/08/24
 
