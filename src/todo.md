@@ -2,6 +2,11 @@
 
 [书籍索引](https://lauer3912.github.io/book-index/)
 
+
+## 2021/08/27
+
+- WASM
+
 ## 2021/08/26
 
 - 第三方功能库
