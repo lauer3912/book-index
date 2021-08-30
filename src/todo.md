@@ -3,9 +3,25 @@
 [书籍索引](https://lauer3912.github.io/book-index/)
 
 
+## 2021/08/30
+
+- 测试:
+  - [ ] 集成对数据库的直接操作，比如插入、更新、删除
+    - [x] 引入 [`Knex.js` SQL查询语句构建器](https://www.npmjs.com/package/knex)
+    - [x] 引入 [`mysql-import` mysql 导入器](https://github.com/Pamblam/mysql-import/)
+      - [x] 问题，数据库重新初始化，速度有点慢
+
+- 低代码：
+  - [ ] [百度 AMIS(爱速达)](https://baidu.gitee.io/amis/zh-CN/docs/index)
+    - [ ] 学习组件参照[爱速搭](https://baidu.gitee.io/aisuda-docs/)
+      - 组件数量多达120
+
 ## 2021/08/27
 
 - WASM
+- Jest/Playwright
+  - [Demo项目](/home/sunzhifeng/workspace/temp/playwright/demo-on-linux/readme.md)
+  - [ ] 文档整理
 
 ## 2021/08/26
 
@@ -16,6 +32,7 @@
   - 报表集成
     - [x] [深入学习开源Allure Framework](https://github.com/allure-framework)
       - [x] 其他工具输出的测试报表数据如何传输到Allure?
+      - [x] 输出目录: `cd /home/sunzhifeng/workspace/tools-distributions/`
       - [x] SDK 资源
         - [ ] 重点关注[`allure-js`](https://github.com/allure-framework/allure-js) 与 [`allure-java`](https://github.com/allure-framework/allure-java)
         - [x] 集成[allure-playwright](https://www.npmjs.com/package/allure-playwright), 并在测试工程中验证
