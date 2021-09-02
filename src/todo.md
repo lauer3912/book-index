@@ -2,6 +2,21 @@
 
 [书籍索引](https://lauer3912.github.io/book-index/)
 
+## 2021/09/02
+
+- 前端架构
+  - [x] 建立前端技术团队发布页面
+
+## 2021/09/01
+
+- Nuxt 架构升级
+  - [x] 集成[nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit)
+  - [x] 集成[nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements)
+  - [x] 兼容.nvmrc 配置的支持
+  - [x] 开发的时候，是否默认启动https服务
+    - [x] 参考：[https://github.com/GrabarzUndPartner/gp-vue-boilerplate/blob/main/nuxt.config.js](https://github.com/GrabarzUndPartner/gp-vue-boilerplate/blob/main/nuxt.config.js)
+    - [x] 使用 mkcert 工具，生成 https 证书, https://www.npmjs.com/package/mkcert
+
 
 ## 2021/08/30
 
