@@ -4,8 +4,12 @@
 
 ## 2021/09/02
 
+- Allure 问题
+  - [ ] docker 中运行，无法使用外部IP地址访问，如何解决？
 - 前端架构
   - [x] 建立前端技术团队发布页面
+- IPC
+  - [x] [❓Swift 如何集成 C](https://theswiftdev.com/how-to-call-c-code-from-swift/)
 
 ## 2021/09/01
 
@@ -15,8 +19,7 @@
   - [x] 兼容.nvmrc 配置的支持
   - [x] 开发的时候，是否默认启动https服务
     - [x] 参考：[https://github.com/GrabarzUndPartner/gp-vue-boilerplate/blob/main/nuxt.config.js](https://github.com/GrabarzUndPartner/gp-vue-boilerplate/blob/main/nuxt.config.js)
-    - [x] 使用 mkcert 工具，生成 https 证书, https://www.npmjs.com/package/mkcert
-
+    - [x] 使用 mkcert 工具，生成 https 证书, <https://www.npmjs.com/package/mkcert>
 
 ## 2021/08/30
 
