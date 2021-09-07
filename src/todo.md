@@ -2,10 +2,21 @@
 
 [书籍索引](https://lauer3912.github.io/book-index/)
 
+
+## 2021/09/06
+
+- Playwright 进阶
+  - [ ] 集成 Allure中，`test.step` 如何在报告中体现？
+    - [x] "allure-playwright": "^2.0.0-beta.13" 高版本已经支持
+  - [ ] 手动编写工具，获取测试用例的所有信息，包括测试步骤
+    - [ ] 源码：[allure-js.git](https://github.com/allure-framework/allure-js)  ~/github-prj/allure-js.git
+    - [ ]
+
 ## 2021/09/02
 
 - Allure 问题
-  - [ ] docker 中运行，无法使用外部IP地址访问，如何解决？
+  - [x] docker 中运行，无法使用外部IP地址访问，如何解决？
+    - [x] 解决方案: windows 上搭建nginx转发。参见：D:\workspace\github\Utils\nginx-1.20.0\conf\nginx.conf
 - 前端架构
   - [x] 建立前端技术团队发布页面
 - IPC
@@ -95,6 +106,7 @@
   - 运行测试
     - [x] Playwright 通过 `playwright.config.js` 配置文件进行测试
     - [x] 通过docker, `mcr.microsoft.com/playwright:focal`, 能够正常运行测试
+      - [x] docker id: aa, 工程所在路径 `/home/pwuser/func-test`
 
 ## 2021/08/23
 
