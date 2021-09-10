@@ -2,23 +2,30 @@
 
 [书籍索引](https://lauer3912.github.io/book-index/)
 
-## 2021/10/10
+## 2021/09/10
+
 - WSAM问题
-  - []
+  - [ ] [WasmEdge](https://github.com/WasmEdge/WasmEdge)
+      > WasmEdge（以前称为 SSVM）是一个高性能的 WebAssembly（Wasm）虚拟机，为边缘计算进行了优化，包括边缘云和 Software Defined Vehicle
+      > [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+
+- 在线编程IDE学习：
+  - [ ] [gitpod.io](//gitpod.io), 自由度比较活
+    - [ ] 源码已经收录到 `https://github.com/LabsRS-Ref/gitpod` 中
 
 
 ## 2021/09/09
+
 - Allure 问题
   - [x] 已经完成CI/CD 的基础本版的处理
 
 ## 2021/09/06
 
 - Playwright 进阶
-  - [ ] 集成 Allure中，`test.step` 如何在报告中体现？
+  - [x] 集成 Allure中，`test.step` 如何在报告中体现？
     - [x] "allure-playwright": "^2.0.0-beta.13" 高版本已经支持
   - [ ] 手动编写工具，获取测试用例的所有信息，包括测试步骤
     - [ ] 源码：[allure-js.git](https://github.com/allure-framework/allure-js)  ~/github-prj/allure-js.git
-    - [ ]
 
 ## 2021/09/02
 
