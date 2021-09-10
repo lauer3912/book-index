@@ -1,0 +1,2 @@
+language = "bash"
+run = "mdbook serve -p 9000"
