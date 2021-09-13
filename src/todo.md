@@ -5,10 +5,12 @@
 
 ## 2021/09/13
 
-- `有限状态机`:
+- [`有限状态机 (Finite State machine)`](https://en.wikipedia.org/wiki/Finite-state_machine):
   - [ ] [robot](https://hub.fastgit.org/matthewp/robot), 一个小的功能性和不可变的有限状态机库。 为您的组件使用状态机为应用程序状态带来了声明式编程方法。
       > 有限状态机是指有限个数的状态之间相互切换的数学模型，在业务与游戏开发中有限状态都很常见，包括发请求也是一种有限状态机的模型
-      [ ] 重点查看 `index.d.ts` 暴露的API
+      > 解决由命令行编程转变成声明式编程的问题
+      > [ ] 重点查看 `index.d.ts` 暴露的API
+      > 参考 [P , 模块化安全编程应用分布式系统](https://github.com/p-org/P)
 
 - `postcss`的继续学习 [https://postcss.org/](https://postcss.org/)
 
