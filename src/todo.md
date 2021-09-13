@@ -2,16 +2,26 @@
 
 [书籍索引](https://lauer3912.github.io/book-index/)
 
+
+## 2021/09/13
+
+- `有限状态机`:
+  - [ ] [robot](https://hub.fastgit.org/matthewp/robot), 一个小的功能性和不可变的有限状态机库。 为您的组件使用状态机为应用程序状态带来了声明式编程方法。
+      > 有限状态机是指有限个数的状态之间相互切换的数学模型，在业务与游戏开发中有限状态都很常见，包括发请求也是一种有限状态机的模型
+      [ ] 重点查看 `index.d.ts` 暴露的API
+
+- `postcss`的继续学习 [https://postcss.org/](https://postcss.org/)
+
 ## 2021/09/10
 
 - WSAM问题
-  - [ ] [WasmEdge](https://github.com/WasmEdge/WasmEdge)
+  - [x] [WasmEdge](https://github.com/WasmEdge/WasmEdge)
       > WasmEdge（以前称为 SSVM）是一个高性能的 WebAssembly（Wasm）虚拟机，为边缘计算进行了优化，包括边缘云和 Software Defined Vehicle
       > [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 
 - 在线编程IDE学习：
-  - [ ] [gitpod.io](//gitpod.io), 自由度比较活
-    - [ ] 源码已经收录到 `https://github.com/LabsRS-Ref/gitpod` 中
+  - [x] [gitpod.io](//gitpod.io), 自由度比较活, 支持私有部署
+    - [x] 源码已经收录到 `https://github.com/LabsRS-Ref/gitpod` 中
 
 
 ## 2021/09/09
@@ -24,8 +34,8 @@
 - Playwright 进阶
   - [x] 集成 Allure中，`test.step` 如何在报告中体现？
     - [x] "allure-playwright": "^2.0.0-beta.13" 高版本已经支持
-  - [ ] 手动编写工具，获取测试用例的所有信息，包括测试步骤
-    - [ ] 源码：[allure-js.git](https://github.com/allure-framework/allure-js)  ~/github-prj/allure-js.git
+  - [x] 手动编写工具，获取测试用例的所有信息，包括测试步骤
+    - [x] 源码：[allure-js.git](https://github.com/allure-framework/allure-js)  ~/github-prj/allure-js.git
 
 ## 2021/09/02
 
