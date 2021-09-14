@@ -3,6 +3,15 @@
 [书籍索引](https://lauer3912.github.io/book-index/)
 
 
+## 2021/09/14
+
+- [监控技术]
+  - [x] 阅读[分布式追踪系统 -- Opentracing](https://zhuanlan.zhihu.com/p/83654617)
+    > 关于Metrics、Tracing和Logging (监控、链路追踪及日志)
+
+- 有限状态机的使用
+  - [x] [代码演示: Demo for Preact](https://codesandbox.io/s/preact-with-robot-blc99?file=/src/index.js)
+
 ## 2021/09/13
 
 - [`有限状态机 (Finite State machine)`](https://en.wikipedia.org/wiki/Finite-state_machine):
@@ -11,6 +20,8 @@
       > 解决由命令行编程转变成声明式编程的问题
       > [ ] 重点查看 `index.d.ts` 暴露的API
       > 参考 [P , 模块化安全编程应用分布式系统](https://github.com/p-org/P)
+
+      - [x] [代码演示: Demo for Preact](https://codesandbox.io/s/preact-with-robot-blc99?file=/src/index.js)
 
 - `postcss`的继续学习 [https://postcss.org/](https://postcss.org/)
 
