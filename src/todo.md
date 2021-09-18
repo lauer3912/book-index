@@ -9,7 +9,8 @@
 ## 2021/09/18
 
 - ECMAScript 代码AST解析：
-  - [ ] [esprima-next](https://www.npmjs.com/package/esprima-next)
+  - [ ] [esprima-next JS代码语法分析器](https://www.npmjs.com/package/esprima-next)
+    - [ ] 需要把代码重新读一遍
     - [ ] 实验Demo, 需要处理
 - JS 库：
   - [ ] 跨环境的事件处理: [Cross Context Events](https://github.com/mia1024/cross-context-events)
