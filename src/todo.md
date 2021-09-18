@@ -3,6 +3,7 @@
 * [书籍索引](https://lauer3912.github.io/book-index/)
 * [科技爱好者周刊](http://www.ruanyifeng.com/blog/)
 * [一起构建UI](https://letsbuildui.dev/)
+* [谷歌Web学习站点](https://web.dev/)
 
 
 ## 2021/09/18
