@@ -8,7 +8,9 @@
 
 ## 2021/09/18
 
-
+- ECMAScript 代码AST解析：
+  - [ ] [esprima-next](https://www.npmjs.com/package/esprima-next)
+    - [ ] 实验Demo, 需要处理
 - JS 库：
   - [ ] 跨环境的事件处理: [Cross Context Events](https://github.com/mia1024/cross-context-events)
     > 一个 JS 事件库，允许在多个窗口、多个 iframe 之间共享事件。也就是说，使用它在一个浏览器窗口触发事件，其它窗口也能收到。
