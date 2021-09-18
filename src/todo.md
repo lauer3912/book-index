@@ -1,6 +1,41 @@
 # TODO
 
-[书籍索引](https://lauer3912.github.io/book-index/)
+* [书籍索引](https://lauer3912.github.io/book-index/)
+* [科技爱好者周刊](http://www.ruanyifeng.com/blog/)
+* [一起构建UI](https://letsbuildui.dev/)
+
+
+## 2021/09/18
+
+
+- JS 库：
+  - [ ] 跨环境的事件处理: [Cross Context Events](https://github.com/mia1024/cross-context-events)
+    > 一个 JS 事件库，允许在多个窗口、多个 iframe 之间共享事件。也就是说，使用它在一个浏览器窗口触发事件，其它窗口也能收到。
+
+- 工具：
+  - [x] 书写数学公式的黑板JS特效库： [https://github.com/susam/muboard](https://github.com/susam/muboard)
+
+
+## 2021/09/17
+
+- 公式解析器:
+  - [x] [hot-formula-parser](https://www.npmjs.com/package/hot-formula-parser)
+- Hook函数包装
+  - [before-after-hook 的使用示例](https://runkit.com/lauer3912/before-after-hook)
+    > 轻松创建支持before hook, error hook, after hook.
+
+- CSS 样式计算最高性能
+  - [x] 规则1： 以BEM (Block, Element, Modifier)的方式编写CSS代码，能达到最好的样式计算的性能
+
+## 2021/09/16
+
+- X6 Demo
+  - [https://codesandbox.io/s/x6-react-demo-1j0o3](https://codesandbox.io/s/x6-react-demo-1j0o3)
+
+## 2021/09/15
+
+- [非对称加解密一对多]
+  - [ ] 阅读文章: [非对称加密如何实现一对多的加密方式?](https://www.zhihu.com/question/274354938)
 
 
 ## 2021/09/14
