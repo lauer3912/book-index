@@ -6,12 +6,44 @@
 * [谷歌Web学习站点](https://web.dev/)
 
 
+## 2021/09/23
+
+- 技术进阶：WASM问题
+  - [ ] 编译Swift代码转换成Wasm, [https://swiftwasm.org/](https://swiftwasm.org/)
+    > * 将 Swift的模块带到浏览器领域
+    > * 官方网址：[https://swiftwasm.org/](https://swiftwasm.org/)
+    > * Github网址：[https://github.com/swiftwasm/swift](https://github.com/swiftwasm/swift)
+  - [ ] Rust - Wasm 操作DOM元素
+    > * 使用 `web-sys` 库，[详细操作文档](https://blog.csdn.net/abcjingtong/article/details/112227487)
+  - [x] 让Wasm运行到如何客户端 [Wasmer](https://wasmer.io/)
+    > * 支持如何编程语言编译的Wasm文件
+    > * 支持Windows、Linux、macOS、iOS、Android 等等操作系统
+    > * wapm 包管理工具
+    > * 
+
+- NPMJS 库
+  - [dompurify](https://www.npmjs.com/package/dompurify)
+    > * DOMPurify 是用于 HTML、MathML 和 SVG 的仅 DOM、超快、零容忍 XSS 清理程序
+
+## 2021/09/22
+
+- X6的继续研究
+  - [x] [Demo地址: https://codesandbox.io/s/x6-react-demo-1j0o3](https://codesandbox.io/s/x6-react-demo-1j0o3)
+
+
 ## 2021/09/18
 
 - ECMAScript 代码AST解析：
-  - [ ] [esprima-next JS代码语法分析器](https://www.npmjs.com/package/esprima-next)
-    - [ ] 需要把代码重新读一遍
-    - [ ] 实验Demo, 需要处理
+  - [x] [esprima-next JS代码语法分析器](https://www.npmjs.com/package/esprima-next)
+    - [x] （不做重点考虑）需要把代码重新读一遍
+  - [ ] [acorn 小及快的js解析器](https://www.npmjs.com/package/acorn)  
+    - [x] [代码重新整理中 ... https://replit.com/@lauer3912/js-acorn](https://replit.com/@lauer3912/js-acorn)
+    - [ ] 阅读 [《JS AST 原理揭秘》]
+    (https://zhaomenghuan.js.org/blog/js-ast-principle-reveals.html)
+    - [ ] 阅读 [《ESTree AST node types ESTree AST 节点类型》](https://github.com/estree/estree)
+    - [ ] 阅读 [《AST编译过程》](https://zhuanlan.zhihu.com/p/266697614)
+
+
 - JS 库：
   - [ ] 跨环境的事件处理: [Cross Context Events](https://github.com/mia1024/cross-context-events)
     > 一个 JS 事件库，允许在多个窗口、多个 iframe 之间共享事件。也就是说，使用它在一个浏览器窗口触发事件，其它窗口也能收到。
