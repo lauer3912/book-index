@@ -9,6 +9,22 @@
 * [谷歌Web学习站点](https://web.dev/)
 * [著名的通用JS解决方案](https://github.com/unjs)
 
+
+## 2021/09/30
+
+- 收集优质前端资源
+  - [♠♠♠通用设计Demo](https://xinglie.github.io/report-designer/)
+  - [Typescrpt教程简单](https://jkchao.github.io/typescript-book-chinese/)
+  - [阿里妈妈前端资源 https://github.com/thx ](https://github.com/thx)
+    > 特别是 Magix 
+    > Magix适合用来构建大型的、交互复杂的应用。应用可以是前后端分离的单页应用，也可以是传统的交互复杂的页面。
+
+    > Magix通过特有的vframe(类似iframe的思路)帮你把页面按区块化拆分(这里有介绍：magix,区块化管理利器)，同时拆分后的区块仍可以再拆分子区块，无限拆分下去。通过mx-view标签属性快速把区块组装起来形成最终的页面，区块可以被任意、多次复用。
+
+    > 拆分再组合后的页面，无法直接看出有哪些区块及区块间的关系，可以通过magix配套的区块查看器来查看页面上区块间的关系、区块渲染情况等，便于分析及调试。
+
+    > Magix配套的离线编译工具帮你更轻松的处理不同加载器、路径转换、样式处理、模板处理等问题
+
 ## 2021/09/26
 
 - 技术进阶：
