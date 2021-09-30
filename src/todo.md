@@ -1,10 +1,21 @@
 # TODO
 
+1. **[重点推荐：JS技术解决方案](https://github.com/xinglie/xinglie.github.io/issues)**
+
+
 * [书籍索引](https://lauer3912.github.io/book-index/)
 * [科技爱好者周刊](http://www.ruanyifeng.com/blog/)
 * [一起构建UI](https://letsbuildui.dev/)
 * [谷歌Web学习站点](https://web.dev/)
+* [著名的通用JS解决方案](https://github.com/unjs)
 
+## 2021/09/26
+
+- 技术进阶：
+  - [x] [使用git的patch方式对已经安装的包打补丁patch-package](https://www.zhihu.com/people/da-zhuan-zhuan-fe)
+  - [x] 建议阅读[《自动埋点核心原理揭秘》](https://zhuanlan.zhihu.com/p/354770775)
+  - [x] 建议阅读[《从输入 URL 到页面展示，中间发生了什么？》](https://zhuanlan.zhihu.com/p/161689873)
+  
 
 ## 2021/09/23
 
