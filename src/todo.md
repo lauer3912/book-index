@@ -9,6 +9,31 @@
 * [谷歌Web学习站点](https://web.dev/)
 * [著名的通用JS解决方案](https://github.com/unjs)
 
+## 2021/11/01
+
+- Vue3-SFC-loader: 已初步实现80%的语法特性支持编译
+
+## 2021/10/26
+
+- TailwindCss 演练场：
+
+
+## 2021/10/25
+
+- 问题：TailwindCss 是如何注册css指令的?
+
+  * 参考资料：https://blog.logrocket.com/a-guide-to-css-at-rules/
+
+- **Typescript API文档生成工具**：https://www.npmjs.com/package/typedoc
+
+## 2021/10/12
+
+- 重点关注 Next.js 官方问题收集
+  - [https://github.com/vercel/next.js/tree/master/errors](https://github.com/vercel/next.js/tree/master/errors)
+
+- 阿里云前端为前端解决方案
+  - [https://github.com/lauer3912/book-index/issues/2](https://github.com/lauer3912/book-index/issues/2)
+  - [如何“取巧”实现一个微前端沙箱](https://mp.weixin.qq.com/s/Mg3fU0WvZUQnlWHdxc-b5A)
 
 ## 2021/09/30
 
