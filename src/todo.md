@@ -9,14 +9,30 @@
 * [谷歌Web学习站点](https://web.dev/)
 * [著名的通用JS解决方案](https://github.com/unjs)
 
+2. **[优秀文章作者]**
+
+- [掘金安东尼](https://juejin.cn/user/1521379823340792/posts)
+
+
+## 2021/12/01
+
+- 好东西收藏：
+  - [ ] [浏览器当作 Web 服务器](https://juejin.cn/post/7032798274880798751)
+    - [ ] `somorphic-git`, git 纯js实现，适用于nodejs及浏览器环境
+    - [ ] `BrowserFS`, 用于读写文件读写，适用于读写git库，以及git获取及推送
+    - [ ] `Lightning-fs`, 让浏览器读写文件更加快速
+    - [ ] `indexedDB`, 实现客户端存储大量的结构化数据
+    - 参考资料：
+      - [How to create Web Server in Browser](https://itnext.io/how-to-create-web-server-in-browser-ffaa371d2b53)
 
 ## 2021/11/08
  
 - NodejS扩展：
 
-  * [ ] 生成 Cert 私有及公有密钥（一公对n个私有密钥）
-  * [ ] 7zip 文件的集成
-
+  * [x] 生成 Cert 私有及公有密钥（一公对n个私有密钥）
+      * 参照P2P交易原理：https://www.liaoxuefeng.com/wiki/1207298049439968/1311929746325537
+  * [x] 7zip 文件的集成
+   
 
 ## 2021/11/01
 
