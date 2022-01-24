@@ -8,10 +8,41 @@
 * [一起构建UI](https://letsbuildui.dev/)
 * [谷歌Web学习站点](https://web.dev/)
 * [著名的通用JS解决方案](https://github.com/unjs)
+* [很多实用技巧](https://iyideng.vip/)
 
 2. **[优秀文章作者]**
 
 - [掘金安东尼](https://juejin.cn/user/1521379823340792/posts)
+- [zxg_神说要有光](https://juejin.cn/user/2788017216685118/posts)
+
+3. **[优秀开源贡献者]**
+
+- [Jakub T. Jankiewicz](https://github.com/jcubic/) 代表作品： jquery.terminal, isomorphic-git
+- [Andrea Giammarchi](https://github.com/WebReflection/) 代表作品：DOM4 
+
+
+
+## 2022/01/07
+
+- 组件革命：
+  - 微前端部分-组件化革命
+    - [ ] [teambit](https://github.com/teambit)
+
+
+## 2021/12/21
+
+- 好东西收藏：
+  - [ ] [新的开源图像格式 QOI ，压缩速度比 PNG 快 20-50 倍](https://www.oschina.net/news/174927/new-image-format-qoi)
+
+
+## 2021/12/20
+
+- 好东西收藏：
+  - [ ] [在内存中动态生成虚拟模块 webpack-virtual-modules](https://www.npmjs.com/package/webpack-virtual-modules)
+
+## 2021/12/08
+
+- 工具安装
 
 
 ## 2021/12/01
