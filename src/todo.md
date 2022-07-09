@@ -1,6 +1,6 @@
 # TODO
 
-1. **[重点推荐：JS技术解决方案](https://github.com/xinglie/xinglie.github.io/issues)**
+1. **重点推荐：JS技术解决方案(https://github.com/xinglie/xinglie.github.io/issues)**
 
 
 * [书籍索引](https://lauer3912.github.io/book-index/)
@@ -10,24 +10,53 @@
 * [著名的通用JS解决方案](https://github.com/unjs)
 * [很多实用技巧](https://iyideng.vip/)
 
-2. **[优秀文章作者]**
+2. **优秀文章作者**
 
 - [掘金安东尼](https://juejin.cn/user/1521379823340792/posts)
 - [zxg_神说要有光](https://juejin.cn/user/2788017216685118/posts)
 
-3. **[优秀开源贡献者]**
+3. **优秀开源贡献者**
 
 - [Jakub T. Jankiewicz](https://github.com/jcubic/) 代表作品： jquery.terminal, isomorphic-git
 - [Andrea Giammarchi](https://github.com/WebReflection/) 代表作品：DOM4 
 
 
+4. **在线编程环境**
 
-## 2022/01/07
+- [https://gitpod.io/](https://gitpod.io/)
+- [https://replit.com/](https://replit.com)
 
-- 组件革命：
-  - 微前端部分-组件化革命
-    - [ ] [teambit](https://github.com/teambit)
 
+## 2022/07
+
+- 极致JS框架新秀：[Qwik](https://github.com/BuilderIO/qwik)
+  - 号称，无与伦比的交互JS优化框架
+
+## 2022/03
+
+- 代码交流站点
+  - [https://spectrum.chat/](https://spectrum.chat/)
+  - Demo: 
+
+
+## 2022/01
+
+- DSL 领域工具
+  - [ ] [最强语法解析构建工具 Chevrotain](https://github.com/chevrotain/chevrotain)
+    - [在线 PlayGround 测试你的代码](https://chevrotain.io/playground/)
+    - [性能基准测试](https://chevrotain.io/performance/)
+
+
+- 组件驱动开发演进：
+  - 微前端部分-组件化革命, 构建
+    - [x] [teambit](https://github.com/teambit)
+
+- 安全API:
+  - JavaScript Sanitizer API：原生WEB安全API出现啦
+    - [ ] [Sanitizer](https://my.oschina.net/powertoolsteam/blog/5336257)
+
+- 嵌入式应用
+  - [Tauri，Electron 的替代品 https://tauri.studio/ ](https://tauri.studio/)
 
 ## 2021/12/21
 
@@ -39,11 +68,6 @@
 
 - 好东西收藏：
   - [ ] [在内存中动态生成虚拟模块 webpack-virtual-modules](https://www.npmjs.com/package/webpack-virtual-modules)
-
-## 2021/12/08
-
-- 工具安装
-
 
 ## 2021/12/01
 
@@ -166,7 +190,11 @@
 ## 2021/09/17
 
 - 公式解析器:
-  - [x] [hot-formula-parser](https://www.npmjs.com/package/hot-formula-parser)
+  - [x] [大名鼎鼎的 `handsontable` 提供的免费的 `hot-formula-parser`](https://www.npmjs.com/package/hot-formula-parser)
+
+- 类电子表格:
+  - [x] [大名鼎鼎的 `handsontable`](https://github.com/lauer3912/handsontable)
+
 - Hook函数包装
   - [before-after-hook 的使用示例](https://runkit.com/lauer3912/before-after-hook)
     > 轻松创建支持before hook, error hook, after hook.
