@@ -29,8 +29,19 @@
 
 ## 2022/07
 
+- AWS 开源基于 React 的 Web 应用程序设计系统
+  - 新闻来源：https://www.oschina.net/news/204033/aws-open-sources-cloudscape-design-system
+  - https://cloudscape.design/
+
+- Astring: 从 AST 语法代码生成JS代码（极致）
+  - https://www.npmjs.com/package/astring
+
+- 供应链攻击日益严重，微软开源 SBOM 生成工具
+  - https://www.oschina.net/news/202966/microsoft-open-sources-salus
+  - https://github.com/microsoft/sbom-tool
+
 - 极致JS框架新秀：[Qwik](https://github.com/BuilderIO/qwik)
-  - 号称，无与伦比的交互JS优化框架
+  - 号称，无与伦比的交互JS优化框架. 原 AngularJS 作者奉献
 
 ## 2022/03
 
